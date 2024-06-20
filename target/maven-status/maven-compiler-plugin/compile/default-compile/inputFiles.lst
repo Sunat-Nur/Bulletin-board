@@ -1,0 +1,10 @@
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/controller/BoardController.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/controller/CommentController.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/controller/HomeController.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/dto/BoardDTO.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/dto/CommentDTO.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/dto/PageDTO.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/repository/BoardRepository.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/repository/CommentRepository.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/service/BoardService.java
+/Users/sunat_nur/Documents/finalSpring/src/main/java/com/codingrecipe/board/service/CommentService.java
